@@ -1,0 +1,16 @@
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\bin\Debug\netcoreapp2.1\BadClock.deps.json
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\bin\Debug\netcoreapp2.1\BadClock.dll
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\bin\Debug\netcoreapp2.1\BadClock.pdb
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\obj\Debug\netcoreapp2.1\BadClock.csprojAssemblyReference.cache
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\obj\Debug\netcoreapp2.1\BadClock.AssemblyInfoInputs.cache
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\obj\Debug\netcoreapp2.1\BadClock.AssemblyInfo.cs
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\obj\Debug\netcoreapp2.1\BadClock.dll
+C:\Users\AMD-A12\6bda8275-d379-41e4-85de-a4f06a23d369\BadClock\obj\Debug\netcoreapp2.1\BadClock.pdb
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\bin\Debug\netcoreapp2.1\BadClock.deps.json
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\bin\Debug\netcoreapp2.1\BadClock.dll
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\bin\Debug\netcoreapp2.1\BadClock.pdb
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\obj\Debug\netcoreapp2.1\BadClock.csprojAssemblyReference.cache
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\obj\Debug\netcoreapp2.1\BadClock.AssemblyInfoInputs.cache
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\obj\Debug\netcoreapp2.1\BadClock.AssemblyInfo.cs
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\obj\Debug\netcoreapp2.1\BadClock.dll
+C:\Users\AMD-A12\BadClock.EtyDey\BadClock\obj\Debug\netcoreapp2.1\BadClock.pdb
